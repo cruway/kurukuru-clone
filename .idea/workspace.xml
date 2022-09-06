@@ -1,7 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf7c902c-0589-46e0-bef5-473af6fc23d1" name="Changes" comment="middle save" />
+    <list default="true" id="cf7c902c-0589-46e0-bef5-473af6fc23d1" name="Changes" comment="middle save">
+      <change afterPath="$PROJECT_DIR$/chats.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/components/badge.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/components/user-components.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/components/nav-bar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/nav-bar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/components/screen-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/screen-header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/screens/friends.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/screens/friends.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/screens/login.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/screens/login.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/friends.html" beforeDir="false" afterPath="$PROJECT_DIR$/friends.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/미이군.png" beforeDir="false" afterPath="$PROJECT_DIR$/image/mikun.png" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,19 +48,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
-    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
-    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
-  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "list.type.of.created.stylesheet": "CSS"
+  }
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/image" />
       <recent name="C:\Users\darkl\IdeaProjects\kokoa-clone\css\components" />
       <recent name="C:\Users\darkl\IdeaProjects\kokoa-clone\css\screens" />
     </key>
@@ -94,6 +106,11 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="6a90cac6-15a4-4dc1-84fd-e64bcab37764">
+          <value>
+            <State />
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State />

@@ -1,3 +1,4 @@
 :root {
-    --blue: #007FFF
+    --blue: #007FFF;
+    --horizontal-space: 35px 25px 25px;
 }
