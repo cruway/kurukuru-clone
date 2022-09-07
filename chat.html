@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="css/styles.css"/>
+    <script src="https://kit.fontawesome.com/2686c06680.js" crossorigin="anonymous"></script>
+    <title>チャット / みーくん - Kurukuru Talk</title>
+</head>
+<body id="chat-screen">
+    <div>
+        <div class="status-bar">
+            <div class="status-bar__column">
+                <span>国外</span>
+                <i class="fa-solid fa-wifi"></i>
+            </div>
+            <div class="status-bar__column">
+                <span>18:43</span>
+            </div>
+            <div class="status-bar__column">
+                <span>100%</span>
+                <i class="fa-solid fa-battery-full fa-lg"></i>
+                <i class="fa-solid fa-bolt"></i>
+            </div>
+        </div>
+        <header class="alt-header">
+            <div class="alt-header__column">
+                <a href="chats.html">
+                    <i class="fa-sharp fa-solid fa-chevron-left fa-2x"></i>
+                </a>
+            </div>
+            <div class="alt-header__column">
+                <h1 class="alt-header__title">みーくん</h1>
+            </div>
+            <div class="alt-header__column">
+                <span><i class="fa-sharp fa-solid fa-magnifying-glass fa-lg"></i></span>
+                <span><i class="fas fa-bars fa-lg"></i></span>
+            </div>
+        </header>
+        <main class="main-screen main-chat">
+            <div class="chat__timestamp">
+                2022/9/7(火)
+            </div>
+
+            <div class="message-row message">
+                <img src="image/mikun.png">
+                <div class="message-row__content">
+                    <span class="message__author">みーくん</span>
+                    <div class="message__info">
+                        <span class="message__bubble">代わりにチャットします。今、寝ていますね。</span>
+                        <span class="message__time">22:53</span>
+                    </div>
+                </div>
+            </div>
+            <div class="message-row message-row--own">
+                <div class="message-row__content">
+                    <div class="message__info">
+                        <span class="message__bubble message-balloon-left">そうだすか？承知しました！</span>
+                        <span class="message__time">22:54</span>
+                    </div>
+                </div>
+            </div>
+        </main>
+        <form class="reply">
+            <div class="reply__column">
+                <i class="fa-regular fa-square-plus fa-2x"></i>
+            </div>
+            <div class="reply__column">
+                <input type="text" placeholder="メッセージを入力してください" />
+                <i class="far fa-smile-wink fa-2x"></i>
+                <button>
+                    <i class="fa-solid fa-circle-arrow-up"></i>
+                </button>
+            </div>
+        </form>
+    </div>
+</body>
+</html>
