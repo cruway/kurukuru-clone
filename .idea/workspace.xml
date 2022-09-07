@@ -1,21 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf7c902c-0589-46e0-bef5-473af6fc23d1" name="Changes" comment="middle save">
-      <change afterPath="$PROJECT_DIR$/css/screens/find.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/find.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/america.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/mukumuku.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/image/news.png" afterDir="false" />
+    <list default="true" id="cf7c902c-0589-46e0-bef5-473af6fc23d1" name="Changes" comment="findテンプレート作成">
+      <change afterPath="$PROJECT_DIR$/css/components/icon-row.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/screens/more.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/more.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/chats.html" beforeDir="false" afterPath="$PROJECT_DIR$/chats.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/components/badge.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/badge.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/nav-bar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/nav-bar.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/components/screen-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/screen-header.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/components/user-components.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/user-components.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/screens/friends.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/screens/friends.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/screens/find.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/screens/find.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/variables.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/variables.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/find.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/friends.html" beforeDir="false" afterPath="$PROJECT_DIR$/friends.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,8 +23,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -106,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662463664481</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="findテンプレート作成">
+      <created>1662528224872</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1662528224872</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +130,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="middle save" />
-    <option name="LAST_COMMIT_MESSAGE" value="middle save" />
+    <MESSAGE value="findテンプレート作成" />
+    <option name="LAST_COMMIT_MESSAGE" value="findテンプレート作成" />
   </component>
 </project>

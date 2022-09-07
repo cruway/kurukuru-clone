@@ -19,3 +19,8 @@
     align-items: center;
     color: white;
 }
+
+.phone-exclamation-badge {
+    color: tomato;
+    margin-left: 6px;
+}
