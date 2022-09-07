@@ -1,17 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cf7c902c-0589-46e0-bef5-473af6fc23d1" name="Changes" comment="add animation">
-      <change afterPath="$PROJECT_DIR$/css/components/no-mobile.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat.html" beforeDir="false" afterPath="$PROJECT_DIR$/chat.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chats.html" beforeDir="false" afterPath="$PROJECT_DIR$/chats.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/styles.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/find.html" beforeDir="false" afterPath="$PROJECT_DIR$/find.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/friends.html" beforeDir="false" afterPath="$PROJECT_DIR$/friends.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/more.html" beforeDir="false" afterPath="$PROJECT_DIR$/more.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.html" beforeDir="false" afterPath="$PROJECT_DIR$/settings.html" afterDir="false" />
+    <list default="true" id="cf7c902c-0589-46e0-bef5-473af6fc23d1" name="Changes" comment="size control">
+      <change beforePath="$PROJECT_DIR$/kokoa-clone.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kurukuru-clone.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,6 +58,21 @@
       <recent name="C:\Users\darkl\IdeaProjects\kokoa-clone\css\components" />
       <recent name="C:\Users\darkl\IdeaProjects\kokoa-clone\css\screens" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="kurukuru-clone" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="kurukuru-clone" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -143,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662564422886</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="size control">
+      <created>1662565566717</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1662565566717</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -167,6 +180,7 @@
     <MESSAGE value="more作成" />
     <MESSAGE value="chat作成" />
     <MESSAGE value="add animation" />
-    <option name="LAST_COMMIT_MESSAGE" value="add animation" />
+    <MESSAGE value="size control" />
+    <option name="LAST_COMMIT_MESSAGE" value="size control" />
   </component>
 </project>
