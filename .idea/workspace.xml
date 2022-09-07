@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cf7c902c-0589-46e0-bef5-473af6fc23d1" name="Changes" comment="add animation">
-      <change beforePath="$PROJECT_DIR$/css/screens/friends.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/screens/friends.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/components/nav-bar.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/nav-bar.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/components/screen-header.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/components/screen-header.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/screens/chat.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/screens/chat.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/screens/find.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/screens/find.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -120,7 +124,14 @@
       <option name="project" value="LOCAL" />
       <updated>1662561306342</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="add animation">
+      <created>1662561337349</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1662561337349</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
