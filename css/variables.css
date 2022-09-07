@@ -1,4 +1,5 @@
 :root {
     --blue: #007FFF;
     --horizontal-space: 35px 25px 25px;
+    --main-border: 1px solid rgba(0, 0, 0, 0.3);
 }
